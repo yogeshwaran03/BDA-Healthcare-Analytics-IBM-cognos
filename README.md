@@ -1,7 +1,3 @@
-Here’s a detailed README file for your GitHub repository based on the provided project report content.
-
----
-
 # BDA in Healthcare Using Analytics
 
 ## Overview
