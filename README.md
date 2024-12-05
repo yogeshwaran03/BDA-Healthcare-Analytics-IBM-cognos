@@ -52,7 +52,7 @@ The primary objective of this project is to demonstrate the importance of data a
 
 ## Architecture
 
-![Architecture Diagram]([Architecture Diagram](https://github.com/yogeshwaran03/BDA-Healthcare-Analytics-IBM-cognos/blob/c137301034dcce8c97b72eae0c391c0da3debe72/file/img/arch.png))
+![Architecture Diagram]((https://github.com/yogeshwaran03/BDA-Healthcare-Analytics-IBM-cognos/blob/c137301034dcce8c97b72eae0c391c0da3debe72/file/img/arch.png))
 
 - **Storage**: Data collected from healthcare sources is stored in a structured database (e.g., MS Excel).
 - **Data Integration**: Seamlessly integrates raw data into analytics tools.
