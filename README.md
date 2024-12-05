@@ -106,13 +106,11 @@ The primary objective of this project is to demonstrate the importance of data a
 ## Results
 
 - **Data Representation**: 
-   - Visualized data using pie charts, bar graphs, and line plots.
-   - Interactive dashboards providing insights into patient demographics, satisfaction scores, and resource utilization.
-
+   - Once you get our Project, Click the index.html file to open the project. The website loads and we are presented with the home page. Then navigate to the dashboard
+   ![Archtecture daigram]
 - **Outcomes**:
-   - Reduced patient waiting times.
-   - Improved hospital resource allocation.
-
+   - After you click the dashboard on the navigation bar we will be presented with the below dashboard For presentation actionable insights 
+   ![Archtecture daigram]
 ---
 
 ## Applications
