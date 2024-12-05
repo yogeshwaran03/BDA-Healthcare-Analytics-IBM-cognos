@@ -107,10 +107,10 @@ The primary objective of this project is to demonstrate the importance of data a
 
 - **Data Representation**: 
    - Once you get our Project, Click the index.html file to open the project. The website loads and we are presented with the home page. Then navigate to the dashboard
-   ![Dashboard daigram](https://github.com/yogeshwaran03/BDA-Healthcare-Analytics-IBM-cognos/blob/cc7e4d44f00f47c0c82d100957d6b26d8157115a/file/img/dash.png)
+   
 - **Outcomes**:
    - After you click the dashboard on the navigation bar we will be presented with the below dashboard For presentation actionable insights 
-   ![Archtecture daigram]
+   ![Dashboard daigram](https://github.com/yogeshwaran03/BDA-Healthcare-Analytics-IBM-cognos/blob/cc7e4d44f00f47c0c82d100957d6b26d8157115a/file/img/dash.png)
 ---
 
 ## Applications
